@@ -1,4 +1,4 @@
-# Integracao Continua e Entrega COntinua
+# Integracao Continua e Entrega Continua
 
 ---
 
